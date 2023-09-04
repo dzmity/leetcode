@@ -10,4 +10,5 @@
 | 53  |     Maximum Subarray      | Java | Medium |
 |     |        Study plan         | Top Interview 150 | |
 | 88  |    Merge Sorted Array     | Java | Easy |
+| 27  |    Remove Element    | Java | Easy |
 
