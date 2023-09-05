@@ -17,6 +17,7 @@
         <module>27-remove-element</module>
         <module>26-remove-duplicates-from-sorted-array</module>
         <module>80-remove-duplicates-from-sorted-array</module>
+        <module>169-majority-element</module>
     </modules>
 
     <properties>
