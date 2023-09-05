@@ -16,4 +16,5 @@
 | 80  | Remove Duplicates from Sorted Array II |            Medium |                     Array, 2 Pointers |
 | 169 |            Majority Element            |              Easy | Boyer-Moore Majority Voting Algorithm |
 | 189 |              Rotate Array              |            Medium |                     Array, 2 Pointers |
+| 121 |    Best Time to Buy and Sell Stock     |              Easy |            Array, Dynamic Programming |
 

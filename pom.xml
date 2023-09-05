@@ -19,6 +19,7 @@
         <module>80-remove-duplicates-from-sorted-array</module>
         <module>169-majority-element</module>
         <module>189-rotate-array</module>
+        <module>121-best-time-to-buy-and-sell-stock</module>
     </modules>
 
     <properties>
