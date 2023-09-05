@@ -18,6 +18,7 @@
         <module>26-remove-duplicates-from-sorted-array</module>
         <module>80-remove-duplicates-from-sorted-array</module>
         <module>169-majority-element</module>
+        <module>189-rotate-array</module>
     </modules>
 
     <properties>
