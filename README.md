@@ -17,4 +17,5 @@
 | 169 |            Majority Element            |              Easy | Boyer-Moore Majority Voting Algorithm |
 | 189 |              Rotate Array              |            Medium |                     Array, 2 Pointers |
 | 121 |    Best Time to Buy and Sell Stock     |              Easy |            Array, Dynamic Programming |
+| 122 |    Best Time to Buy and Sell Stock     |            Medium |            Array, Dynamic Programming |
 
