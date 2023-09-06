@@ -22,6 +22,7 @@
         <module>121-best-time-to-buy-and-sell-stock</module>
         <module>122-best-time-to-buy-and-sell-stock</module>
         <module>55-jump-game</module>
+        <module>45-jump-game</module>
     </modules>
 
     <properties>
