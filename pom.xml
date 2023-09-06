@@ -21,6 +21,7 @@
         <module>189-rotate-array</module>
         <module>121-best-time-to-buy-and-sell-stock</module>
         <module>122-best-time-to-buy-and-sell-stock</module>
+        <module>55-jump-game</module>
     </modules>
 
     <properties>

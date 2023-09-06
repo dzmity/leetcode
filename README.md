@@ -18,4 +18,5 @@
 | 189 |              Rotate Array              |            Medium |                     Array, 2 Pointers |
 | 121 |    Best Time to Buy and Sell Stock     |              Easy |            Array, Dynamic Programming |
 | 122 |    Best Time to Buy and Sell Stock     |            Medium |            Array, Dynamic Programming |
+| 55  |               Jump Game                |            Medium |    Array, Dynamic Programming, Greedy |
 
