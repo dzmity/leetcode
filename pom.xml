@@ -24,6 +24,7 @@
         <module>55-jump-game</module>
         <module>45-jump-game</module>
         <module>274-h-index</module>
+        <module>134-gas-stations</module>
     </modules>
 
     <properties>

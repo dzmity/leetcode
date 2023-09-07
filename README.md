@@ -21,4 +21,5 @@
 | 55  |               Jump Game                |            Medium |    Array, Dynamic Programming, Greedy |
 | 45  |              Jump Game II              |            Medium |    Array, Dynamic Programming, Greedy |
 | 274 |                H-Index                 |            Medium |                  Array, Counting Sort |
+| 134 |              Gas Station               |            Medium |                         Array, Greedy |
 
