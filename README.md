@@ -22,4 +22,5 @@
 | 45  |              Jump Game II              |            Medium |    Array, Dynamic Programming, Greedy |
 | 274 |                H-Index                 |            Medium |                  Array, Counting Sort |
 | 134 |              Gas Station               |            Medium |                         Array, Greedy |
+| 13  |            Roman to Integer            |              Easy |                    Hash Table, String |
 
