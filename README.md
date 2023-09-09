@@ -24,4 +24,5 @@
 | 134 |              Gas Station               |            Medium |                         Array, Greedy |
 | 13  |            Roman to Integer            |              Easy |                    Hash Table, String |
 | 12  |            Integer to Roman            |            Medium |                    Hash Table, String |
+| 58  |          Length of last word           |              Easy |                                String |
 
