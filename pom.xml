@@ -26,6 +26,7 @@
         <module>274-h-index</module>
         <module>134-gas-stations</module>
         <module>13-roman-to-integer</module>
+        <module>12-integer-to-roman</module>
     </modules>
 
     <properties>
