@@ -28,6 +28,7 @@
         <module>13-roman-to-integer</module>
         <module>12-integer-to-roman</module>
         <module>58-length-of-last-word</module>
+        <module>14-longest-common-prefix</module>
     </modules>
 
     <properties>
