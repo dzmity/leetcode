@@ -27,4 +27,5 @@
 | 58  |          Length of last word           |              Easy |                                String |
 | 14  |         Longest Common Prefix          |              Easy |                          String, Trie |
 | 151 |       Reverse Words in a String        |            Medium |                    String, 2 Pointers |
+| 6   |           ZigZag Conversion            |            Medium |                                String |
 

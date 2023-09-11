@@ -30,6 +30,7 @@
         <module>58-length-of-last-word</module>
         <module>14-longest-common-prefix</module>
         <module>151-reverse-words-in-string</module>
+        <module>6-zigzag-conversion</module>
     </modules>
 
     <properties>
