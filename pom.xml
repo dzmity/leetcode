@@ -34,6 +34,7 @@
         <module>205-isomorphic-strings</module>
         <module>290-word-pattern</module>
         <module>242-valid-anagram</module>
+        <module>49-group-anagrams</module>
     </modules>
 
     <properties>
