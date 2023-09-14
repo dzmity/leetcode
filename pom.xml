@@ -33,6 +33,7 @@
         <module>6-zigzag-conversion</module>
         <module>205-isomorphic-strings</module>
         <module>290-word-pattern</module>
+        <module>242-valid-anagram</module>
     </modules>
 
     <properties>
