@@ -29,4 +29,5 @@
 | 151 |       Reverse Words in a String        |            Medium |                    String, 2 Pointers |
 | 6   |           ZigZag Conversion            |            Medium |                                String |
 | 205 |           Isomorphic Strings           |              Easy |                    String, Hash Table |
+| 290 |              Word Pattern              |              Easy |                    String, Hash Table |
 
