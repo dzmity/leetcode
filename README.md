@@ -5,7 +5,7 @@
 | #   |                 Title                  |        Difficulty |                                Topics |
 |-----|:--------------------------------------:|------------------:|--------------------------------------:|
 | 876 |       Middle of the Linked List        |              Easy |                                       |
-| 383 |              Ransom Note               |              Easy |                                       |
+| 383 |              Ransom Note               |              Easy |          Hash Table, String, Counting |
 |     |               Study plan               |                   |                                       |
 | 217 |           Contains Duplicate           |              Easy |                                       |
 | 53  |            Maximum Subarray            |            Medium |                                       |
@@ -28,4 +28,5 @@
 | 14  |         Longest Common Prefix          |              Easy |                          String, Trie |
 | 151 |       Reverse Words in a String        |            Medium |                    String, 2 Pointers |
 | 6   |           ZigZag Conversion            |            Medium |                                String |
+| 205 |           Isomorphic Strings           |              Easy |                    String, Hash Table |
 

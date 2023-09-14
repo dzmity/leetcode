@@ -31,6 +31,7 @@
         <module>14-longest-common-prefix</module>
         <module>151-reverse-words-in-string</module>
         <module>6-zigzag-conversion</module>
+        <module>205-isomorphic-strings</module>
     </modules>
 
     <properties>
