@@ -32,4 +32,5 @@
 | 290 |              Word Pattern              |              Easy |                    String, Hash Table |
 | 242 |             Valid Anagram              |              Easy |                    String, Hash Table |
 | 49  |             Group Anagrams             |            Medium |             Array, String, Hash Table |
+| 1   |                Two Sum                 |              Easy |                     Array, Hash Table |
 
