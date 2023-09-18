@@ -39,6 +39,7 @@
         <module>128-longest-consecutive-sequence</module>
         <module>20-valid-parentheses</module>
         <module>71-simplify-path</module>
+        <module>150-evaluate-reverse-polish-notation</module>
     </modules>
 
     <properties>

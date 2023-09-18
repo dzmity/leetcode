@@ -36,4 +36,5 @@
 | 128 |      Longest Consecutive Sequence      |            Medium |         Array, Hash Table, Union Find |
 | 20  |           Valid Parentheses            |              Easy |                         String, Stack |
 | 71  |             Simplify Path              |            Medium |                         String, Stack |
+| 150 |    Evaluate Reverse Polish Notation    |            Medium |                          Array, Stack |
 
