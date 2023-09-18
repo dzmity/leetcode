@@ -35,4 +35,5 @@
 | 1   |                Two Sum                 |              Easy |                     Array, Hash Table |
 | 128 |      Longest Consecutive Sequence      |            Medium |         Array, Hash Table, Union Find |
 | 20  |           Valid Parentheses            |              Easy |                         String, Stack |
+| 71  |             Simplify Path              |            Medium |                         String, Stack |
 

@@ -38,6 +38,7 @@
         <module>1-two-summ</module>
         <module>128-longest-consecutive-sequence</module>
         <module>20-valid-parentheses</module>
+        <module>71-simplify-path</module>
     </modules>
 
     <properties>
