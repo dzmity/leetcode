@@ -34,4 +34,5 @@
 | 49  |             Group Anagrams             |            Medium |             Array, String, Hash Table |
 | 1   |                Two Sum                 |              Easy |                     Array, Hash Table |
 | 128 |      Longest Consecutive Sequence      |            Medium |         Array, Hash Table, Union Find |
+| 20  |           Valid Parentheses            |              Easy |                         String, Stack |
 

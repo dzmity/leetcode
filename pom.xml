@@ -37,6 +37,7 @@
         <module>49-group-anagrams</module>
         <module>1-two-summ</module>
         <module>128-longest-consecutive-sequence</module>
+        <module>20-valid-parentheses</module>
     </modules>
 
     <properties>
