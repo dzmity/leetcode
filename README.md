@@ -33,4 +33,5 @@
 | 242 |             Valid Anagram              |              Easy |                    String, Hash Table |
 | 49  |             Group Anagrams             |            Medium |             Array, String, Hash Table |
 | 1   |                Two Sum                 |              Easy |                     Array, Hash Table |
+| 128 |      Longest Consecutive Sequence      |            Medium |         Array, Hash Table, Union Find |
 
