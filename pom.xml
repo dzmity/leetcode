@@ -40,6 +40,7 @@
         <module>20-valid-parentheses</module>
         <module>71-simplify-path</module>
         <module>150-evaluate-reverse-polish-notation</module>
+        <module>36-valid-sudoku</module>
     </modules>
 
     <properties>

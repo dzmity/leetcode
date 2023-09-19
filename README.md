@@ -37,4 +37,5 @@
 | 20  |           Valid Parentheses            |              Easy |                         String, Stack |
 | 71  |             Simplify Path              |            Medium |                         String, Stack |
 | 150 |    Evaluate Reverse Polish Notation    |            Medium |                          Array, Stack |
+| 36  |              Valid Sudoku              |            Medium |             Array, Hash Table, Matrix |
 
