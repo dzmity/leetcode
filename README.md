@@ -39,4 +39,5 @@
 | 150 |    Evaluate Reverse Polish Notation    |            Medium |                          Array, Stack |
 | 36  |              Valid Sudoku              |            Medium |             Array, Hash Table, Matrix |
 | 48  |              Rotate Image              |            Medium |                   Array, Math, Matrix |
+| 73  |            Set Matrix Zeros            |            Medium |                         Array, Matrix |
 

@@ -42,6 +42,7 @@
         <module>150-evaluate-reverse-polish-notation</module>
         <module>36-valid-sudoku</module>
         <module>48-rotate-image</module>
+        <module>73-set-matrix-zeros</module>
     </modules>
 
     <properties>
