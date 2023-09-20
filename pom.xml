@@ -44,6 +44,7 @@
         <module>48-rotate-image</module>
         <module>73-set-matrix-zeros</module>
         <module>104-maximum-depth-of-binary-tree</module>
+        <module>100-same-tree</module>
     </modules>
 
     <properties>
