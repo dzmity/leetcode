@@ -43,6 +43,7 @@
         <module>36-valid-sudoku</module>
         <module>48-rotate-image</module>
         <module>73-set-matrix-zeros</module>
+        <module>104-maximum-depth-of-binary-tree</module>
     </modules>
 
     <properties>

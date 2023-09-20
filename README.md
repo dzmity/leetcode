@@ -40,4 +40,5 @@
 | 36  |              Valid Sudoku              |            Medium |             Array, Hash Table, Matrix |
 | 48  |              Rotate Image              |            Medium |                   Array, Math, Matrix |
 | 73  |            Set Matrix Zeros            |            Medium |                         Array, Matrix |
+| 104 |      Maximum Depth Of Binary Tree      |              Easy |                 Binary Tree, DFS, BFS |
 
