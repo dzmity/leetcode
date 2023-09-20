@@ -45,6 +45,7 @@
         <module>73-set-matrix-zeros</module>
         <module>104-maximum-depth-of-binary-tree</module>
         <module>100-same-tree</module>
+        <module>101-symmetric-tree</module>
     </modules>
 
     <properties>

@@ -42,4 +42,5 @@
 | 73  |            Set Matrix Zeros            |            Medium |                         Array, Matrix |
 | 104 |      Maximum Depth Of Binary Tree      |              Easy |                 Binary Tree, DFS, BFS |
 | 100 |               Same Tree                |              Easy |                 Binary Tree, DFS, BFS |
+| 101 |             Symmetric Tree             |              Easy |                 Binary Tree, DFS, BFS |
 
