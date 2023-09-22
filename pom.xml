@@ -46,6 +46,7 @@
         <module>104-maximum-depth-of-binary-tree</module>
         <module>100-same-tree</module>
         <module>101-symmetric-tree</module>
+        <module>226-invert-binary-tree</module>
     </modules>
 
     <properties>
