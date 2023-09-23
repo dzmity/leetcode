@@ -47,6 +47,7 @@
         <module>100-same-tree</module>
         <module>101-symmetric-tree</module>
         <module>226-invert-binary-tree</module>
+        <module>105-binary-tree-from-preorder-inorder-traversal</module>
     </modules>
 
     <properties>
