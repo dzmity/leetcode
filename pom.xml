@@ -50,6 +50,7 @@
         <module>105-binary-tree-from-preorder-inorder-traversal</module>
         <module>106-binary-tree-from-postorder-inorder-traversal</module>
         <module>117-populate-next-right-pointer-2</module>
+        <module>114-flatten-binary-tree-to-linked-list</module>
     </modules>
 
     <properties>
