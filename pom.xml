@@ -49,6 +49,7 @@
         <module>226-invert-binary-tree</module>
         <module>105-binary-tree-from-preorder-inorder-traversal</module>
         <module>106-binary-tree-from-postorder-inorder-traversal</module>
+        <module>117-populate-next-right-pointer-2</module>
     </modules>
 
     <properties>
