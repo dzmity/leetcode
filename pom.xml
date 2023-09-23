@@ -51,6 +51,7 @@
         <module>106-binary-tree-from-postorder-inorder-traversal</module>
         <module>117-populate-next-right-pointer-2</module>
         <module>114-flatten-binary-tree-to-linked-list</module>
+        <module>129-sum-root-to-leaf-numbers</module>
     </modules>
 
     <properties>
