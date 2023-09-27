@@ -51,4 +51,5 @@
 | 637 |              Average of Levels in Binary Tree              |              Easy |                      Binary Tree, BFS |
 | 199 |                Binary Tree Right Side View                 |            Medium |                      Binary Tree, BFS |
 | 102 |             Binary Tree Level Order Traversal              |            Medium |                      Binary Tree, BFS |
+| 530 |             Minimum Absolute Difference in BST             |              Easy |               Binary Search Tree, DFS |
 
