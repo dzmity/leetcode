@@ -48,4 +48,5 @@
 | 106 | Construct Binary Tree from Postorder and Inorder Traversal |            Medium |       Binary Tree, Divide and Conquer |
 | 117 |       Populating Next Right Pointers in Each Node II       |            Medium |                      Binary Tree, DFS |
 | 129 |                  Sum Root to Leaf Numbers                  |            Medium |                      Binary Tree, DFS |
+| 637 |              Average of Levels in Binary Tree              |              Easy |                      Binary Tree, BFS |
 
