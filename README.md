@@ -49,4 +49,5 @@
 | 117 |       Populating Next Right Pointers in Each Node II       |            Medium |                      Binary Tree, DFS |
 | 129 |                  Sum Root to Leaf Numbers                  |            Medium |                      Binary Tree, DFS |
 | 637 |              Average of Levels in Binary Tree              |              Easy |                      Binary Tree, BFS |
+| 199 |                Binary Tree Right Side View                 |            Medium |                      Binary Tree, BFS |
 
