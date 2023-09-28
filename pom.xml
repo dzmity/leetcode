@@ -59,6 +59,7 @@
         <module>230-kth-smallest-element-in-a-bst</module>
         <module>98-validate-binary-search-tree</module>
         <module>200-number-of-islands</module>
+        <module>130-surrounded-regions</module>
     </modules>
 
     <properties>
