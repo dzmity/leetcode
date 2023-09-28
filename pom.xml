@@ -58,6 +58,7 @@
         <module>530-minimum-absolute-difference-in-bst</module>
         <module>230-kth-smallest-element-in-a-bst</module>
         <module>98-validate-binary-search-tree</module>
+        <module>200-number-of-islands</module>
     </modules>
 
     <properties>
