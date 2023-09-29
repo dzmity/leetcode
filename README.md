@@ -56,5 +56,6 @@
 | 98  |                Validate Binary Search Tree                 |            Medium |               Binary Search Tree, DFS |
 | 200 |                     Number of Islands                      |            Medium |               Matrix, BFS, Union Find |
 | 130 |                     Surrounded Regions                     |            Medium |                           Matrix, BFS |
+| 133 |                        Clone Graph                         |            Medium |                Graph, DFS, Hash Table |
 
 

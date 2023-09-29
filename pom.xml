@@ -60,6 +60,7 @@
         <module>98-validate-binary-search-tree</module>
         <module>200-number-of-islands</module>
         <module>130-surrounded-regions</module>
+        <module>133-clone-graph</module>
     </modules>
 
     <properties>
