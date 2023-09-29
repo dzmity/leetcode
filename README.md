@@ -57,5 +57,6 @@
 | 200 |                     Number of Islands                      |            Medium |               Matrix, BFS, Union Find |
 | 130 |                     Surrounded Regions                     |            Medium |                           Matrix, BFS |
 | 133 |                        Clone Graph                         |            Medium |                Graph, DFS, Hash Table |
+| 399 |                     Evaluate Division                      |            Medium |                Union Find, Hash Table |
 
 

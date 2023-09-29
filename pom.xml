@@ -61,6 +61,7 @@
         <module>200-number-of-islands</module>
         <module>130-surrounded-regions</module>
         <module>133-clone-graph</module>
+        <module>399-evaluate-division</module>
     </modules>
 
     <properties>
