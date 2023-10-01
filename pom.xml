@@ -66,6 +66,7 @@
         <module>141-linked-list-cycle</module>
         <module>2-add-two-numbers</module>
         <module>206-reverse-linked-list</module>
+        <module>374-guess-number-higher-or-lower</module>
     </modules>
 
     <properties>

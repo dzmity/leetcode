@@ -62,5 +62,6 @@
 | 141 |                     Linked List Cycle                      |              Easy | Linked List, Hash Table, Two pointers |
 | 2   |                      Add Two Numbers                       |            Medium |                 Linked List, Tail rec |
 | 206 |                    Reverse Linked List                     |              Easy |                Linked List, Recursion |
+| 374 |                Guess Number Higher or Lower                |              Easy |                         Binary Search |
 
 
