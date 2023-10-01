@@ -59,5 +59,6 @@
 | 133 |                        Clone Graph                         |            Medium |                Graph, DFS, Hash Table |
 | 399 |                     Evaluate Division                      |            Medium |                Union Find, Hash Table |
 | 23  |                    Merge k Sorted Lists                    |              Hard |       Linked List, Divide and Conquer |
+| 141 |                     Linked List Cycle                      |              Easy | Linked List, Hash Table, Two pointers |
 
 
