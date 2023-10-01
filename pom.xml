@@ -64,6 +64,7 @@
         <module>399-evaluate-division</module>
         <module>23-merge-k-sorted-lists</module>
         <module>141-linked-list-cycle</module>
+        <module>2-add-two-numbers</module>
     </modules>
 
     <properties>
