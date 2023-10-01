@@ -62,6 +62,7 @@
         <module>130-surrounded-regions</module>
         <module>133-clone-graph</module>
         <module>399-evaluate-division</module>
+        <module>23-merge-k-sorted-lists</module>
     </modules>
 
     <properties>
