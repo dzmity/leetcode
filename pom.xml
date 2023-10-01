@@ -65,6 +65,7 @@
         <module>23-merge-k-sorted-lists</module>
         <module>141-linked-list-cycle</module>
         <module>2-add-two-numbers</module>
+        <module>206-reverse-linked-list</module>
     </modules>
 
     <properties>
