@@ -1,57 +1,93 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 class Solution {
-    public static void main(String[] args) {
-        List<Integer> result = findAnagrams("cbaebabacd", "abc");
-        System.out.println(result);
+    private static final char FIRST_LETTER = 'a';
+    private static final int ALPHABET_SIZE = 26;
+
+    // Todo: refactor me
+    public void main(String[] args) {
+        System.out.println(findAnagrams("abab", "ab"));
+        System.out.println(findAnagrams("cbaebabacd", "abc"));
+        System.out.println(findAnagrams("baa", "aa"));
     }
 
-    public static List<Integer> findAnagrams(String s, String p) {
-
-        if (s.length() < p.length()) {
+    public List<Integer> findAnagrams(String s, String p) {
+        int wordLength = p.length();
+        if (s.length() < wordLength) {
             return Collections.emptyList();
         }
 
-        char[] pChars = p.toCharArray();
-        Map<Character, Integer> characterIntegerMap = generateNumberPerSymbolMap(pChars);
-
-        List<Integer> indexes = new ArrayList<>();
         char[] sChars = s.toCharArray();
+        char[] pChars = p.toCharArray();
+        int[] letters = generateNumberPerSymbolArray(pChars);
+        List<Integer> indexes = new ArrayList<>();
 
-        // map with word.length() - 1 symbols
-        Map<Character, Integer> previousSymbols = new HashMap<>();
-        for (int i = 0; i < p.length() - 1; i++) {
-            char symbol = sChars[i];
-            previousSymbols.merge(symbol, 1, Integer::sum);
-        }
+        Pair pair = generateArray(sChars, 0, wordLength, letters);
+        int[] previousLetters = pair.previousLetters;
+        int startIndex = pair.startIndex;
 
-        int startIndex = 0;
-        while (startIndex <= s.length() - p.length()) {
-            previousSymbols.merge(sChars[startIndex + p.length() - 1], 1, Integer::sum);
-            if (previousSymbols.equals(characterIntegerMap)) {
+        while (startIndex <= s.length() - wordLength) {
+            char nextLetter = sChars[startIndex + wordLength - 1];
+            while (letters[nextLetter - FIRST_LETTER] == 0) {
+                startIndex = startIndex + wordLength;
+                if (startIndex > s.length() - wordLength) {
+                    return indexes;
+                }
+                pair = generateArray(sChars, startIndex, wordLength, letters);
+                previousLetters = pair.previousLetters;
+                startIndex = pair.startIndex;
+                if (startIndex > s.length() - wordLength) {
+                    return indexes;
+                }
+                nextLetter = sChars[startIndex + wordLength - 1];
+            }
+
+            previousLetters[nextLetter - FIRST_LETTER]++;
+            if (Arrays.equals(previousLetters, letters)) {
                 indexes.add(startIndex);
             }
-            char symbol = sChars[startIndex];
-            int symbolsNumber = previousSymbols.get(symbol);
-            if (symbolsNumber == 1) {
-                previousSymbols.remove(symbol);
-            } else {
-                previousSymbols.put(symbol, symbolsNumber - 1);
-            }
+
+            char letter = sChars[startIndex];
+            previousLetters[letter - FIRST_LETTER]--;
             startIndex++;
         }
         return indexes;
     }
 
-    private static Map<Character, Integer> generateNumberPerSymbolMap(char[] pChars) {
-        Map<Character, Integer> map = new HashMap<>();
-        for (char character : pChars) {
-            map.merge(character, 1, Integer::sum);
+    private Pair generateArray(char[] sChars, int startIndex, int wordLength, int[] letters) {
+        int[] previousLetters = new int[ALPHABET_SIZE];
+        int endIndex = Math.min(sChars.length - 1, startIndex + wordLength - 1);
+        for (int i = startIndex; i < endIndex; i++) {
+            char letter = sChars[i];
+            if (letters[letter - FIRST_LETTER] == 0) {
+                previousLetters = new int[ALPHABET_SIZE];
+                startIndex = i + 1;
+                endIndex = Math.min(sChars.length - 1, startIndex + wordLength - 1);
+                continue;
+            }
+            previousLetters[letter - FIRST_LETTER]++;
         }
-        return map;
+        return new Pair(startIndex, previousLetters);
+    }
+
+    private int[] generateNumberPerSymbolArray(char[] pChars) {
+        int[] letters = new int[ALPHABET_SIZE];
+        for (char character : pChars) {
+            letters[character - FIRST_LETTER]++;
+        }
+        return letters;
+    }
+
+    private class Pair {
+        int startIndex;
+        int[] previousLetters;
+
+        public Pair(int startIndex, int[] previousLetters) {
+            this.startIndex = startIndex;
+            this.previousLetters = previousLetters;
+        }
     }
 }
