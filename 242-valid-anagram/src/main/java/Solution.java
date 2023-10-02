@@ -11,7 +11,7 @@ class Solution {
         char[] sArray = s.toCharArray();
         char[] tArray = t.toCharArray();
 
-        int [] lettersCount = new int[26];
+        int [] lettersCount = new int[ALPHABET_SIZE];
 
         for (int i = 0; i < sArray.length; i++) {
             lettersCount[sArray[i] - FIRST_LETTER] ++;
