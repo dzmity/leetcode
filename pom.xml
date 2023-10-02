@@ -70,6 +70,7 @@
         <module>74-search-a-2d-matrix</module>
         <module>33-search-in-rotated-sorted-array</module>
         <module>153-find-minimum-in-rotated-sorted-array</module>
+        <module>81-search-in-rotated-sorted-array-2</module>
     </modules>
 
     <properties>
