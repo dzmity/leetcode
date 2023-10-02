@@ -63,5 +63,6 @@
 | 2   |                      Add Two Numbers                       |            Medium |                 Linked List, Tail rec |
 | 206 |                    Reverse Linked List                     |              Easy |                Linked List, Recursion |
 | 74  |                     Search a 2D Matrix                     |            Medium |                 Matrix, Binary Search |
+| 33  |               Search in Rotated Sorted Array               |            Medium |                  Array, Binary Search |
 
 
