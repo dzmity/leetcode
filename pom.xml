@@ -71,6 +71,7 @@
         <module>33-search-in-rotated-sorted-array</module>
         <module>153-find-minimum-in-rotated-sorted-array</module>
         <module>81-search-in-rotated-sorted-array-2</module>
+        <module>136-single-number</module>
     </modules>
 
     <properties>
