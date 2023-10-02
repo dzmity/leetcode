@@ -64,5 +64,6 @@
 | 206 |                    Reverse Linked List                     |              Easy |                Linked List, Recursion |
 | 74  |                     Search a 2D Matrix                     |            Medium |                 Matrix, Binary Search |
 | 33  |               Search in Rotated Sorted Array               |            Medium |                  Array, Binary Search |
+| 153 |            Find Minimum in Rotated Sorted Array            |            Medium |                  Array, Binary Search |
 
 
