@@ -67,5 +67,6 @@
 | 153 |            Find Minimum in Rotated Sorted Array            |            Medium |                  Array, Binary Search |
 | 81  |              Search in Rotated Sorted Array 2              |            Medium |                  Array, Binary Search |
 | 136 |                       Single Number                        |              Easy |          Array, Bitwise operator, XOR |
+| 438 |               Find All Anagrams in a String                |            Medium |                    Hash Table, String |
 
 
