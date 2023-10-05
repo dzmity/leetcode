@@ -70,3 +70,4 @@
 | 692 |                    Top K Frequent Words                    |     Medium |       String, Priority Queue, Sorting |
 | 11  |                 Container With Most Water                  |     Medium |                   Array, Two Pointers |
 | 763 |                      Partition Labels                      |     Medium |      Hash Table, String, Two Pointers |
+| 110 |                    Balanced Binary Tree                    |       Easy |                      Binary Tree, DFS |

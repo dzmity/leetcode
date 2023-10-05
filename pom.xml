@@ -78,6 +78,7 @@
         <module>347-top-k-frequent-elements</module>
         <module>11-container-with-most-water</module>
         <module>763-partition-labels</module>
+        <module>110-balanced-binary-tree</module>
     </modules>
 
     <properties>
