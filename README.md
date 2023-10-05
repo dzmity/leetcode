@@ -71,5 +71,6 @@
 | 56  |                      Merge intervals                       |            Medium |                        Array, Sorting |
 | 692 |                    Top K Frequent Words                    |            Medium |       String, Priority Queue, Sorting |
 | 11  |                 Container With Most Water                  |            Medium |                   Array, Two Pointers |
+| 763 |                      Partition Labels                      |            Medium |      Hash Table, String, Two Pointers |
 
 
