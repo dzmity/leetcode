@@ -69,5 +69,6 @@
 | 136 |                       Single Number                        |              Easy |          Array, Bitwise operator, XOR |
 | 438 |               Find All Anagrams in a String                |            Medium |                    Hash Table, String |
 | 56  |                      Merge intervals                       |            Medium |                        Array, Sorting |
+| 692 |                    Top K Frequent Words                    |            Medium |       String, Priority Queue, Sorting |
 
 

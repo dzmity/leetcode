@@ -74,6 +74,7 @@
         <module>136-single-number</module>
         <module>438-find-all-anagrams-in-a-string</module>
         <module>56-merge-intervals</module>
+        <module>692-top-k-frequent-words</module>
     </modules>
 
     <properties>
