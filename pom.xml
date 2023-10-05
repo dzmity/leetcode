@@ -79,6 +79,7 @@
         <module>11-container-with-most-water</module>
         <module>763-partition-labels</module>
         <module>110-balanced-binary-tree</module>
+        <module>70-climbing-stairs</module>
     </modules>
 
     <properties>
