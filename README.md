@@ -68,5 +68,6 @@
 | 81  |              Search in Rotated Sorted Array 2              |            Medium |                  Array, Binary Search |
 | 136 |                       Single Number                        |              Easy |          Array, Bitwise operator, XOR |
 | 438 |               Find All Anagrams in a String                |            Medium |                    Hash Table, String |
+| 56  |                      Merge intervals                       |            Medium |                        Array, Sorting |
 
 
